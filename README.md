@@ -35,6 +35,8 @@ Our project is contained in multiple iPython notebooks, as permitted according t
 - SCDB_2015_01_caseCentered_Citation.csv: this file is downloaded from http://scdb.wustl.edu/data.php (the Supreme Court Database). It contains information about every Supreme Court case since 1946.
 - all_cases.csv: this file includes the scraped syllabi of all Supreme Court cases from 1946. Scraping has been done from https://supreme.justia.com/. The scraping process is explained in data_scraping.ipynb.
 
+Note: we also scraped some data from Wikipedia, which we used to match cases between the SCDB csv and the justia scraped syllabi. The (initial) wikipedia link for scraping is: https://en.wikipedia.org/wiki/Lists_of_United_States_Supreme_Court_cases_by_volume.
+
 **Other data files**: these are data files that we have created for exporting data between notebooks.
 - naive_bayes_full_model_results.csv: has various results and optimal parameters of naive bayes run on the full set of cases.
 - naive_bayes_sample_model_results.csv: equivalent for the sample of cases.
@@ -43,6 +45,7 @@ Our project is contained in multiple iPython notebooks, as permitted according t
 
 **Miscellaneous** 
 - SVM_image_1.png, SVM_image_2.png, kernelized_SVM_output.png: photos that we use in the notebooks.
+
 
 ------------------------------------------------------------------------------------------------------
 
