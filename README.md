@@ -5,6 +5,12 @@ Max Liebeskind, Madhu Vijay, Yunhan Xu
 
 Github repo link: https://github.com/yunhanxu/cs109-project
 
+This ReadMe has 4 sections: 
+(I) GITHUB FILES, a list of all the files in our Github repo.
+(II) Screencast link
+(III) Website link
+(IV) Libraries used: a list of all the non-ordinary libraries we used.
+
 ------------------------------------------------------------------------------------------------------
 
 **I. GITHUB FILES**: below we have listed all of the files in our Github repo by file-type (iPython notebook, raw data files, other data files, miscellaneous). 
@@ -40,8 +46,19 @@ Our project is contained in multiple iPython notebooks, as permitted according t
 
 ------------------------------------------------------------------------------------------------------
 
-**II. Screencast link: 
+**II. Screencast link**: 
 
 ------------------------------------------------------------------------------------------------------
 
-**III. Website link: http://cs109-project.squarespace.com/
+**III. Website link**: http://cs109-project.squarespace.com/
+
+------------------------------------------------------------------------------------------------------
+
+**IV: Libraries**: we used the following non-ordinary libraries in our project. (These are libraries we used that were not frequently used in the course.)
+
+- BeautifulSoup: http://www.crummy.com/software/BeautifulSoup/. Used for web scraping.
+- Pattern: http://www.clips.ua.ac.be/pattern. Used for natural language processing; we use it to tokenize documents.
+- Gensim: https://radimrehurek.com/gensim/. Used for LDA.
+- Bottleneck: https://pypi.python.org/pypi/Bottleneck. Used for getting min/max values in arrays.
+- Regex: https://docs.python.org/2/library/re.html. Used for text parsing. 
+- Collections: https://docs.python.org/2/library/collections.html. Used for ordering dictionaries. 
