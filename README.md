@@ -3,7 +3,7 @@ cs 109 final project: Topic modeling with Supreme Court cases
 
 Max Liebeskind, Madhu Vijay, Yunhan Xu
 
-Github repo link: https://github.com/yunhanxu/cs109-project
+Github repo link: https://github.com/yunhanxu/cs109-project (see the `project_data_collection` branch)
 
 This ReadMe has 4 sections: 
 (I) GITHUB FILES, a list of all the files in our Github repo.
