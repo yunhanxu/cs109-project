@@ -1,0 +1,14 @@
+best alpha,best min_df,fn,fp,issue,test_accuracy,tn,tp,training_accuracy,words,sensitivity,specificity
+50.0,0.1,24,40,criminal procedure,0.866388308977,68,347,0.88082437276,"[convicted, jury, trial, conviction, defendant, criminal, evidence, he, circumstances, his]",0.935309973046,0.62962962963
+10.0,0.1,59,46,civil rights,0.780793319415,35,339,0.809139784946,"[protection, persons, her, opportunity, requirement, system, supp, fourteenth, provide, individual]",0.85175879397,0.432098765432
+0.1,0.1,36,27,first amendment,0.868475991649,24,392,0.938172043011,"[public, first, exercise, interest, interests, amendment, means, substantial, judicial, fourteenth]",0.915887850467,0.470588235294
+5.0,0.1,16,8,due process,0.949895615866,5,450,0.956093189964,"[property, due, process, hearing, opportunity, interest, nothing, used, authorized, sufficient]",0.965665236052,0.384615384615
+1.0,0.1,10,4,privacy,0.970772442589,0,465,0.982078853047,"[board, relevant, related, procedure, enforcement, give, contrary, determination, inter, provide]",0.978947368421,0.0
+1.0,0.1,0,7,attorneys,0.985386221294,2,470,0.995519713262,"[attorney, civil, text, rights, persons, history, 11, makes, complaint, respondents]",1.0,0.222222222222
+10.0,0.1,20,8,unions,0.941544885177,14,437,0.965053763441,"[labor, employees, board, practice, national, members, ordered, interpretation, corp, local]",0.956236323851,0.636363636364
+10.0,0.1,108,11,economic activity,0.751565762004,69,291,0.766129032258,"[liability, corp, co, commission, inc, 17, interpretation, act, meaning, language]",0.729323308271,0.8625
+10.0,0.1,68,25,judicial power,0.805845511482,31,355,0.838709677419,"[jurisdiction, appeal, dismissed, vacated, motion, courts, 28, complaint, review, suit]",0.839243498818,0.553571428571
+10.0,0.1,39,17,federalism,0.883089770355,7,416,0.917562724014,"[common, entered, labor, power, corp, rules, constitution, local, laws, terms]",0.914285714286,0.291666666667
+5.0,0.1,7,0,interstate  amendment,0.985386221294,2,470,0.982078853047,"[entered, ordered, summary, 14, having, complaint, establish, 26, established, december]",0.985324947589,1.0
+5.0,0.1,54,7,federal taxation,0.872651356994,7,411,0.913978494624,"[years, 26, 23, 19, having, making, unanimous, distinguished, specific, shall]",0.883870967742,0.5
+1.0,0.1,3,2,miscellaneous,0.989561586639,0,474,0.995519713262,"[department, respondents, argument, effect, nothing, individual, administrative, 26, enforcement, criminal]",0.993710691824,0.0
