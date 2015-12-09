@@ -54,7 +54,8 @@ Our project is contained in multiple iPython notebooks, as permitted according t
 
 ------------------------------------------------------------------------------------------------------
 
-**IV: Libraries**: 
+**IV: Libraries**: we used the following non-ordinary libraries in our project. (These are libraries we used that were not frequently used in the course.)
+
 - BeautifulSoup: http://www.crummy.com/software/BeautifulSoup/. Used for web scraping.
 - Pattern: http://www.clips.ua.ac.be/pattern. Used for natural language processing; we use it to tokenize documents.
 - Gensim: https://radimrehurek.com/gensim/. Used for LDA.
