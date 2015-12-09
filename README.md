@@ -40,8 +40,8 @@ Our project is contained in multiple iPython notebooks, as permitted according t
 
 ------------------------------------------------------------------------------------------------------
 
-**II. Screencast link: 
+**II. Screencast link**: 
 
 ------------------------------------------------------------------------------------------------------
 
-**III. Website link: http://cs109-project.squarespace.com/
+**III. Website link**: http://cs109-project.squarespace.com/
