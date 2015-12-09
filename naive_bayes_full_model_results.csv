@@ -1,0 +1,14 @@
+fn,fp,issue,test_accuracy,tn,tp,training_accuracy,words,sensitivity,specificity
+228,125,criminal procedure,0.85603588907,417,1682,0.873273903164,"[convicted, conviction, jury, trial, criminal, defendant, evidence, judge, he, his]",0.880628272251,0.769372693727
+307,190,civil rights,0.797308319739,196,1759,0.808075511274,"[equal, protection, rights, fourteenth, supp, civil, white, administrative, appropriate, members]",0.851403678606,0.507772020725
+244,72,first amendment,0.871125611746,126,2010,0.874147876245,"[first, public, amendment, party, fourteenth, interest, applied, interests, violate, justice]",0.891748003549,0.636363636364
+226,56,due process,0.884991843393,57,2113,0.894948435588,"[due, property, process, hearing, interest, fourteenth, interests, judge, defendant, prior]",0.903377511757,0.504424778761
+270,12,privacy,0.884991843393,22,2148,0.900367068694,"[interests, requirement, public, interest, procedure, necessary, available, need, seeking, provide]",0.888337468983,0.647058823529
+105,11,attorneys,0.952691680261,14,2322,0.964167103653,"[attorney, party, reasonable, civil, practice, authorized, rights, text, connor, damages]",0.95673671199,0.56
+200,21,unions,0.90986949429,90,2141,0.912078307988,"[employees, national, board, practice, members, corp, meaning, terms, violated, business]",0.914566424605,0.810810810811
+533,104,economic activity,0.740212071778,363,1452,0.748295752491,"[liability, corp, damages, business, co, commission, inc, act, laws, summary]",0.731486146096,0.777301927195
+524,63,judicial power,0.760603588907,250,1615,0.776612480336,"[jurisdiction, dismissed, review, appeal, complaint, administrative, 28, suit, vacated, order]",0.75502571295,0.798722044728
+305,35,federalism,0.861337683524,88,2024,0.86156266387,"[laws, state, national, congress, federal, power, requirements, entered, authority, constitution]",0.869042507514,0.715447154472
+304,5,interstate  amendment,0.873980424144,16,2127,0.877643768572,"[entered, new, between, having, complaint, parties, long, february, december, determined]",0.874948580831,0.761904761905
+403,9,federal taxation,0.831973898858,82,1958,0.829575249082,"[property, 26, years, business, determined, 23, meaning, interest, entitled, 22]",0.82930961457,0.901098901099
+49,5,miscellaneous,0.977977161501,2,2396,0.981296976053,"[power, constitution, exercise, during, legislative, congress, authority, clause, judge, pursuant]",0.979959100204,0.285714285714
